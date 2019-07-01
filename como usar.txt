@@ -1,0 +1,7 @@
+Para rodar o software no seu computador é necessário que a biblioteca PCL esteja instalada no computador e que o cmake também esteja instalado. 
+Para criar o arquivo executável, basta entrar na pasda do projeto e exucutar os seguintes comando:
+$ mkdir build && cd build
+$ sudo cmake ..
+$ sudo make
+$ ./octree_compressor
+
